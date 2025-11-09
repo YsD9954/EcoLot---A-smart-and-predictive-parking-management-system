@@ -1,7 +1,8 @@
 streamlit
+ultralytics
 opencv-python-headless
 numpy
 Pillow
-ultralytics
 torch
 torchvision
+libgl1
